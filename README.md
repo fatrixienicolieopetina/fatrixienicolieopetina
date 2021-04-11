@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatrixienicolieopetina
-- 👀 I’m a Java developer, interested in JS and its available libraries and frameworks.
-- 🌱 I’m currently learning JS through TOP (The Odin Project)
+- 👀 I’m a Java developer.
+- 🌱 I’m currently learning JS and passing time through TOP (The Odin Project)
 - 💞️ I’m looking to collaborate on anything related to JS.
 - 📫 You can reach me via twitter @fatrixienicolie.
 
