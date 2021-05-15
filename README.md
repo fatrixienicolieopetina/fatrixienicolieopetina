@@ -26,9 +26,9 @@ Yoroshiku, ne!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/pat_the99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pat_the99" height="30" width="40" /></a>
-<a href="https://twitter.com/colemepat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="colemepat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/patricia-nicole-opetina-b589a0209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="patricia-nicole-opetina-b589a0209" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/fatrixienicolie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="fatrixienicolie" height="30" width="40" /></a>
+<a href="https://twitter.com/colemepat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/twitter.svg" alt="colemepat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/patricia-nicole-opetina-b589a0209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="patricia-nicole-opetina-b589a0209" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15243804/fatrixienicolie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator//6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/stack-overflow.svg" alt="fatrixienicolie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
