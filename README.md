@@ -38,8 +38,9 @@ Yoroshiku, ne!
 <p><a href="https://www.buymeacoffee.com/patthe99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="patthe99" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatrixienicolieopetina&show_icons=true&locale=en&layout=compact" alt="fatrixienicolieopetina" /></p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatrixienicolieopetina&show_icons=true&locale=en" alt="fatrixienicolieopetina" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fatrixienicolieopetina&show_icons=true&locale=en" alt="fatrixienicolieopetina" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatrixienicolieopetina&" alt="fatrixienicolieopetina" /></p>
 
