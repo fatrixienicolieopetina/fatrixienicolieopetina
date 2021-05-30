@@ -17,7 +17,9 @@
 - 👀 I’m a Java developer.
 - 🌱 I’m currently learning JS and passing time through TOP (The Odin Project)
 - ⚡ Fun fact **I can move both of my ears XD, if you can imagine that**
-- 🥅 2021 Dev Goals: Finish the javascript full course path of <a href="https://www.theodinproject.com/paths/full-stack-javascript/">TOP</a>
+- 🥅 2021 Dev Goals <br>
+          📌 Finish the javascript full course path of <a href="https://www.theodinproject.com/paths/full-stack-javascript/">TOP</a><br>
+          📌 Oracle Java 11 Certification 
 - ✍️ I write dev posts about what I learned in <a href="https://dev.to/pat_the99">dev.to</a> and <a href="https://www.buymeacoffee.com/patthe99">buymecoffee</a>. Those posts need some serious grammar checks 😆
 - 💰 I'm also very interested in financial literacy
 - 📺 I'm a big kdrama fan 
