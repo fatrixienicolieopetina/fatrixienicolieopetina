@@ -22,7 +22,8 @@
           📌 Oracle Java 11 Certification 
 - ✍️ I write dev posts about what I learned in <a href="https://dev.to/pat_the99">dev.to</a> and <a href="https://www.buymeacoffee.com/patthe99">buymecoffee</a>. Those posts need some serious grammar checks 😆
 - 💰 I'm also very interested in financial literacy
-- 📺 I'm a big kdrama fan 
+- 📺 I'm a big kdrama fan
+- 📚 2021 book reads can be found <a href="https://fatrixienicolieopetina.github.io/book-library/">here</a> 
 - 💓 I love listening to bops and kpop
 
 <p align="left">
