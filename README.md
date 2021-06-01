@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pat 👧</h1>
+<h4 align="center"><em>Waray ako! ⚔️</em></h4>
 <h5 align="center"><em>fate master, soul captain 🛳️</em></h5>
 <h4 align="center">Junior Developer from 🇵🇭</h4>
 <p align="center"> 
