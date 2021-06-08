@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pat 👧</h1>
 <h4 align="center"><em>Waray ako! ⚔️</em></h4>
-<h5 align="center"><em>fate master, soul captain 🛳️</em></h5>
-<h4 align="center">Junior Developer from 🇵🇭</h4>
 <p align="center"> 
   <a href="https://twitter.com/colemepat" target="blank">
     <img src="https://img.shields.io/twitter/follow/colemepat?logo=twitter&style=for-the-badge" alt="colemepat" />
@@ -18,7 +16,7 @@
 - 👀 I’m a Java developer.
 - 🌱 I’m currently learning JS and passing time through TOP (The Odin Project)
 - ⚡ Fun fact **I can move both of my ears XD, if you can imagine that**
-- ✍️ I write dev posts about what I learned in <a href="https://dev.to/pat_the99">dev.to</a> and <a href="https://www.buymeacoffee.com/patthe99">buymecoffee</a>. Those posts need some serious grammar checks 😆
+- ✍️ I write dev posts about what I learned in <a href="https://dev.to/pat_the99">dev.to</a>. Those posts need some serious grammar checks 😆
 - 💰 I'm also very interested in financial literacy
 - 📺 I'm a big kdrama fan
 - 📚 2021 book reads can be found <a href="https://fatrixienicolieopetina.github.io/book-library/">here</a> 
