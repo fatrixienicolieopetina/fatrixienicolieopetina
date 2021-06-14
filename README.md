@@ -15,6 +15,7 @@
 - 👯 I’m looking to collaborate on **JS projects**
 - 👀 I’m a Java developer.
 - 🌱 I’m currently learning JS and passing time through TOP (The Odin Project)
+- 🏫 School github profile can be found <a href="https://github.com/patricianicoleopetina">here</a>
 - ⚡ Fun fact **I can move both of my ears XD, if you can imagine that**
 - ✍️ I write dev posts about what I learned in <a href="https://dev.to/pat_the99">dev.to</a>. Those posts need some serious grammar checks 😆
 - 💰 I'm also very interested in financial literacy
