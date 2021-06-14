@@ -1,5 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Pat 👧</h1>
+<div align="center">
+    <img src="header.svg" alt="full-name">
+</div>
 <h4 align="center"><em>Waray ako! ⚔️</em></h4>
 <p align="center"> 
   <a href="https://twitter.com/colemepat" target="blank">
