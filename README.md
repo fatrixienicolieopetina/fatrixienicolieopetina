@@ -29,7 +29,7 @@
 <p align="left">
   <h3>Spotify Playing 🎙️💃🎧</h3>
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=patricianicole5899&redirect=true">
-    <img src = "https://spotify-github-profile.vercel.app/api/view.svg?uid=patricianicole5899&cover_image=true&theme=default"/>
+    <img src = "https://spotify-github-profile.vercel.app/api/view.svg?uid=patricianicole5899&cover_image=false&theme=default"/>
   </a>
  </p>
 
