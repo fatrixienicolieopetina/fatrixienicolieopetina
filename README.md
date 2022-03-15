@@ -3,7 +3,7 @@
 <div align="center">
     <img src="header.svg" alt="full-name">
 </div>
-<h4 align="center"><em>Waray ako! ⚔️</em></h4>
+<h4 align="center"><em>ahem, i smile cute. forgive this insolent</em></h4>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
