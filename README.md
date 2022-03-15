@@ -4,11 +4,7 @@
     <img src="header.svg" alt="full-name">
 </div>
 <h4 align="center"><em>Waray ako! ⚔️</em></h4>
-<p align="center"> 
-  <a href="https://twitter.com/colemepat" target="blank">
-    <img src="https://img.shields.io/twitter/follow/colemepat?logo=twitter&style=for-the-badge" alt="colemepat" />
-  </a>
-</p>
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=fatrixienicolieopetina&theme=onedark" alt="fatrixienicolieopetina"/>
