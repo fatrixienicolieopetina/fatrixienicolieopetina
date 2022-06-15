@@ -21,7 +21,6 @@
 - ⚡ Fun fact **I can move both of my ears XD, if you can imagine that**
 - 💰 I'm also very interested in financial literacy
 - 📺 I'm a big kdrama fan
-- 📚 2021 book reads can be found <a href="https://fatrixienicolieopetina.github.io/book-library/">here</a> 
 - 💓 I love listening to bops and kpop
 
 <p align="left">
